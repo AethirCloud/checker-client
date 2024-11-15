@@ -5,4 +5,3 @@ v1.0.2.7/Setup-AethirCheckerGUl-1.0.2.7.exe filter=lfs diff=lfs merge=lfs -text
 v1.0.2.8/Setup-AethirCheckerGUl-1.0.2.8.exe filter=lfs diff=lfs merge=lfs -text
 v1.0.2.9/Setup-AethirCheckerGUI-1.0.2.9.exe filter=lfs diff=lfs merge=lfs -text
 v1.0.3.0/Setup-AethirCheckerGUI-1.0.3.0.exe filter=lfs diff=lfs merge=lfs -text
-v1.0.3.1/Setup-AethirCheckerGUI-1.0.3.1.exe filter=lfs diff=lfs merge=lfs -text
